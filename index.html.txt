@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>index<title>
+</head>
+<body>
+<h1>project</h1>
+<p>this my first project</p>
+<h2>mini project</h2>
+<p>the is about the basics of git</p>
+</body>
+</html>
